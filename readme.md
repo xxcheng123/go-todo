@@ -5,4 +5,7 @@
 
 ### 配置文件：
 *conf/config.ini*
+
 `cp config/config.ini example config/config.ini`
+
+更多：[todo 小清单：gin + gorm 实战学习](https://www.xxcheng.cn/775.html)
