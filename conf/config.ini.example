@@ -1,0 +1,8 @@
+port=19999
+
+[mysql]
+user=root
+password=jpc0519Qcloud
+host=host
+port=port
+dbName=dbName
